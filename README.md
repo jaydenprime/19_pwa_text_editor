@@ -52,9 +52,9 @@ THEN I should have proper build scripts for a webpack application
 
 ## Deployed Link
 
-
+https://secure-wave-79301.herokuapp.com/
 
 ## Screenshot
 
-![Screenshot](./Assets/00-demo.gif)
+![Screenshot](./pwa.PNG)
 
