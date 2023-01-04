@@ -11,7 +11,9 @@
     "client": "cd client && npm start"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "npm": "^9.2.0"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
